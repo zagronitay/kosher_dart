@@ -1,7 +1,7 @@
 name: kosher_dart
 description: This Plugin for a specialized calendar that can calculate different
   astronomical times for Jewish zmanim or religious times for prayers and other Jewish religious duties.
-version: 2.0.12
+version: 2.1.0
 homepage:  https://github.com/yakir8/kosher_dart
 #author: Yakir Benin
 
@@ -9,9 +9,8 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  intl: ^0.17.0
-  pedantic: ^1.11.0
-  vector_math: ^2.1.0
+  intl: ^0.18.0
+  vector_math: ^2.1.4
 
 dev_dependencies:
   test: ^1.16.8

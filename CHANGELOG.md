@@ -1,3 +1,8 @@
+## 2.1.0
+- Upgrade Intl package to 0.18.0
+- Upgrade vector_math package to 2.1.4
+- Remove pedantic package which is deprecated
+
 ## 2.0.12
 - Fix bug on HebrewDateFormatter.format()
 
